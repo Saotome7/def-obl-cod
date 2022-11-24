@@ -1,0 +1,86 @@
+[
+  {
+    "brand": "INTEL",
+    "name": "PC INTEL CELERON",
+    "image": "https://i.ibb.co/sQnyd7k/PC-Armada-Baja-0067-800.jpg",
+    "price": 120,
+    "quantity": 0
+  },
+  {
+    "brand": "INTEL",
+    "name": "PC INTEL CORE I3",
+    "image": "https://i.ibb.co/ZdVknPL/gama-baja.png",
+    "price": 200,
+    "quantity": 0
+  },
+  {
+    "brand": "AMD",
+    "name": "PC AMD RYZEN 5 2600 RX 560",
+    "image": "https://i.ibb.co/2qMd02v/59-PC-Armada-Prod-800.jpg",
+    "price": 280,
+    "quantity": 0
+  },
+  {
+    "brand": "AMD",
+    "name": "PC AMD RYZEN 5 5600G",
+    "image": "https://i.ibb.co/bzLhNsY/PC-Armada-alta6.jpg",
+    "price": 250,
+    "quantity": 0
+  },
+  {
+    "brand": "INTEL",
+    "name": "PC INTEL CORE I5",
+    "image": "https://i.ibb.co/qr1rcWm/103-PC-Armada-Prod-800.jpg",
+    "price": 250,
+    "quantity": 0
+  },
+  {
+    "brand": "INTEL",
+    "name": "PC INTEL CELERON GT1030",
+    "image": "https://i.ibb.co/wQBPMkQ/94-PC-Armada-Prod-800.jpg",
+    "price": 160,
+    "quantity": 0
+  },
+  {
+    "brand": "AMD",
+    "name": "PC AMD RYZEN 5 2600 GTX 1050TI",
+    "image": "https://i.ibb.co/xGPtpJn/8-PC-Armada-Prod-800.jpg",
+    "price": 300,
+    "quantity": 0
+  },
+  {
+    "brand": "AMD",
+    "name": "PC AMD RYZEN 7 5700G",
+    "image": "https://i.ibb.co/nbPrWWV/66-PC-Armada-Prod-800.jpg",
+    "price": 280,
+    "quantity": 0
+  },
+  {
+    "brand": "AMD",
+    "name": "PC AMD RYZEN 5 1600AF GTX1050TI",
+    "image": "https://i.ibb.co/ssVZmQc/63-PC-Armada-Prod-800.jpg",
+    "price": 260,
+    "quantity": 0
+  },
+  {
+    "brand": "INTEL",
+    "name": "PC INTEL CORE I5 RX 6500XT",
+    "image": "https://i.ibb.co/K6JG3Q7/gama-media.png",
+    "price": 310,
+    "quantity": 0
+  },
+  {
+    "brand": "INTEL",
+    "name": "PC INTEL CORE I7 GTX1660",
+    "image": "https://i.ibb.co/NZtTkWN/PC-Armada-alta7.jpg",
+    "price": 370,
+    "quantity": 0
+  },
+  {
+    "brand": "AMD",
+    "name": "PC AMD RYZEN 5 5600X GTX1660",
+    "image": "https://i.ibb.co/x8kKtgc/gama-alta.png",
+    "price": 399,
+    "quentity": 0
+  }
+]
